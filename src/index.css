@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    @apply bg-gray-100; /* Default light background */
+ }
+ 
+ .dark body {
+    @apply bg-gray-900; /* Dark background */
+ }
